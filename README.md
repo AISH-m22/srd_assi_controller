@@ -23,7 +23,7 @@
 
 #Ovreall architecture:
 
-'''[ System State Node ]
+```[ System State Node ]
             │
             │ publishes
             ▼
@@ -37,7 +37,7 @@
      GPIO Pins (85, 86)
             │
             ▼
-      Blue & Yellow LEDs'''
+      Blue & Yellow LEDs```
 
 #In One Sentence
 
